@@ -1,0 +1,20 @@
+name: analysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - dotmap
+  - pillow
+  - importlib_metadata
+  - pip
+  - pip:
+    - sleap=1.2.9
+
+variables:
+  DATAROOT: /ceph/aeon/aeon/data/raw/OCTAGON01/conf1/
+  PYTHONPATH: /home/tomhagley/Documents/aeon_mecha
+  SAVEROOT: /home/tomhagley/Documents/SLEAPProject/saveroot
+prefix: home/miniconda3/envs/analysis

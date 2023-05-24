@@ -1,0 +1,1 @@
+Finish writing flip_and_rotate_trajectory to work with a full session

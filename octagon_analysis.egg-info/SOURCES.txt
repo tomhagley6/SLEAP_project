@@ -1,0 +1,5 @@
+setup.py
+octagon_analysis.egg-info/PKG-INFO
+octagon_analysis.egg-info/SOURCES.txt
+octagon_analysis.egg-info/dependency_links.txt
+octagon_analysis.egg-info/top_level.txt
